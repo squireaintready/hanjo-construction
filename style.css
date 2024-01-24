@@ -5,6 +5,7 @@
 body {
   animation: fadeIn 3s;
   padding:1rem;
+  text-align: center;
   /* width: 100vw !important; */
   /* display: flex;
   flex-direction: column;
